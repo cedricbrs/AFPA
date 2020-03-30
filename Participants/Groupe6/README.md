@@ -11,7 +11,7 @@ Veuillez coller ici vos liens vers votre gitHub
  - Molinaro 		Edwina
  - Danglot 			Damien 
  - Lefebvre 		Guillaume 
- - Cédric 			Brasme 
+ - Cédric 			Brasme https://github.com/cedricbrs 
  - Willebrouck 		Rémi            https://github.com/Willremi
  - Hourquin 		Lucas 
  - Audrey 			Bucholz             https://github.com/AudreyBclz
